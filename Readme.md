@@ -1,0 +1,3 @@
+# Python Start Project Template
+
+: )
